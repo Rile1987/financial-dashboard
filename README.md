@@ -23,7 +23,7 @@ financial-dashboard/
 ## How to Run the Project
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/financial-dashboard.git
+git clone https://github.com/Rile1987/financial-dashboard.git
 cd financial-dashboard
 
 ### 2. Install Dependencies
