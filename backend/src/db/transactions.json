@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1745853644998",
+    "amount": 200,
+    "date": "2024-04-28",
+    "category": "Shopping",
+    "status": "completed"
+  },
+  {
+    "id": "1745853663159",
+    "amount": 999,
+    "date": "2025-04-28",
+    "category": "Shopping",
+    "status": "completed"
+  },
+  {
+    "id": "1745871868433",
+    "amount": 999,
+    "date": "2025-04-28",
+    "category": "Shopping",
+    "status": "pending"
+  },
+  {
+    "id": "1745873643675",
+    "amount": 1,
+    "date": "2025-04-28",
+    "category": "qwe",
+    "status": "pending"
+  },
+  {
+    "id": "1745873648569",
+    "amount": 1,
+    "date": "2025-04-28",
+    "category": "qweqweqe",
+    "status": "pending"
+  },
+  {
+    "id": "1745873659423",
+    "amount": 10,
+    "date": "2025-04-28",
+    "category": "1qweqweqe",
+    "status": "pending"
+  },
+  {
+    "id": "1745874150135",
+    "amount": 123,
+    "date": "2024-04-28",
+    "category": "Test",
+    "status": "pending"
+  }
+]
